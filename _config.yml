@@ -5,3 +5,7 @@ title: Jeremie's coding playground
 description: Various coding projects by Jeremie Roblin
 
 show_downloads: false
+---
+---
+
+@import "{{ site.theme }}";
